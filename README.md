@@ -1,4 +1,4 @@
-## Hi there 👋
+# 안녕하세요! 게임 클라이언트 프로그래머 이보현입니다 🎮
 
 <!--
 **leebohyeon1/leebohyeon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
